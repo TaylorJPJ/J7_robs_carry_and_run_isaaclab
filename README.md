@@ -5,10 +5,10 @@
 - author runs the IsaacLab in Window11 now, while it is more suitable in Linux environment.
 
 ## version problem 
-the universal and easy way of setting the environment is creating the conda envrionment.
-while the version of the python is closely related to the IsaacSim,.
-For *IsaacSim* 5.X, the version of python is 3.11.
-For *IsaacSim* 4.X, the version of python is 3.10.
+the universal and easy way of setting the environment is creating the conda envrionment.<br>
+while the version of the python is closely related to the IsaacSim,<br>
+For *IsaacSim* 5.X, the version of python is 3.11.<br>
+For *IsaacSim* 4.X, the version of python is 3.10.<br>
 
 ## Run the isaaclab
 In the doc of isaaclab, if you want to setup the lab of reinforcement learning, run 
