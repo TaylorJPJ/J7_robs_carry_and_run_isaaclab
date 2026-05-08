@@ -34,3 +34,10 @@ In the offical doc, run the code in the *terminal*<br>
 python scripts/reinforcement_learning/skrl/train.py --task=Isaac-Ant-v0
 ```
 If it can not run, replace *python* as *./isaaclab.bat*
+
+## RL lab issue
+there are three labs used, *rl_game* *rsl_rl* *skrl*.<br>
+In the Windows environment, *rsl_rl* is not suggested.<br>
+rsl_rl is related on *tensordict*, while Windows is related on *C*<br>
+
+
