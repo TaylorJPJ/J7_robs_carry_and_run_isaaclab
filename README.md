@@ -40,4 +40,12 @@ there are three labs used, *rl_game* *rsl_rl* *skrl*.<br>
 In the Windows environment, *rsl_rl* is not suggested.<br>
 rsl_rl is related on *tensordict*, while Windows is related on *C*<br>
 
+## Task issue
+If you use task to run the RLcode, task may not be recognized by the isaaclab<br>
+- in Linux, run the code to refresh the task list.
+```
+./isaaclab.sh ./source
+```
+- In Windows, firstly check the path in *__init__.py* file
+- then, you can find the *@hydra_task_config* in *train.py*, which can find your new tasks but is only used in RL train. 
 
