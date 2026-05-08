@@ -12,9 +12,9 @@ For *IsaacSim* 4.X, the version of python is 3.10.
 
 ## Run the isaaclab
 In the doc of isaaclab, if you want to setup the lab of reinforcement learning, run 
-、、、
+···
 isaaclab.bat --install :: or "isaaclab.bat -i"
-、、、
+···
 If this can't work, change this code as
 、、、
 ./isaaclab.bat --install
