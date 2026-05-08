@@ -24,3 +24,13 @@ What's more, if some lab can't run, use the code
 ./isaaclab.bat --install XXXXX
 ```
 *XXXXX* can be **rl_game**, **rsl_rl** etc, install **rl_game** may not availible for user of China mainland, change the web of download path. 
+
+## Docker install
+I use Isaaclab on my one PC, so the Docker is not needed.
+
+## test the isaaclab environment
+In the offical doc, run the code in the *terminal*<br>
+```
+python scripts/reinforcement_learning/skrl/train.py --task=Isaac-Ant-v0
+```
+If it can not run, replace *python* as *./isaaclab.bat*
