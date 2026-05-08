@@ -12,15 +12,15 @@ For *IsaacSim* 4.X, the version of python is 3.10.
 
 ## Run the isaaclab
 In the doc of isaaclab, if you want to setup the lab of reinforcement learning, run 
-'''
+```
 isaaclab.bat --install :: or "isaaclab.bat -i"
-'''
+```
 If this can't work, change this code as
-、、、
+```
 ./isaaclab.bat --install
-、、、
+```
 What's more, if some lab can't run, use the code 
-、、、
+```
 ./isaaclab.bat --install XXXXX
-、、、
+```
 *XXXXX* can be **rl_game**, **rsl_rl** etc, install **rl_game** may not availible for user of China mainland, change the web of download path. 
